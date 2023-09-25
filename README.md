@@ -1,1 +1,1 @@
-[# junimehanick](https://megalitt.github.io/page/)
+https://megalitt.github.io/page/
